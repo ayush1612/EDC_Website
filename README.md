@@ -1,3 +1,3 @@
 # EDC_Website
 
-This is the in - progress EDC website.
+This is the in - progress EDC website. Temporary!
