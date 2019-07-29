@@ -1,0 +1,25 @@
+{
+  "name": "edc_website",
+  "version": "1.0.0",
+  "description": "This is the in - progress EDC website. Temporary!",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush1612/EDC_Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush1612/EDC_Website/issues"
+  },
+  "homepage": "https://github.com/ayush1612/EDC_Website#readme"
+}
