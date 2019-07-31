@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+.s1{
+    background-color: yellow;
+    background-size: cover;
+}
+
+.s2{
+    background-color: green;
+    background-size: cover;
+}
+
+.s3{
+    background-color: orange;
+    background-size: cover;
+}
+
+span{
+    background: white !important;
+}

@@ -12,6 +12,6 @@ app.get("/",function(req,res){
 
 
 
-app.listen(process.env.PORT || 1234 ,process.env.IP,function(){
+app.listen(process.env.PORT || 3000 ,process.env.IP,function(){
 	console.log("The EDC server has started");
 });
